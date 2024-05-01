@@ -19,9 +19,32 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
+    <head>
+        CARS 
+        </head>
+        <body>
+            <ul>
+                <li>BMW</li>
+                <li>HONDA </li>
+                <li>AUDI</li>
+                    <li>KIA</li>    
+            </ul>
+            <ol>
+                <li>FERRARI</li>
+                <li>TATA MOTORS</li>
+                <li>MAHINDRA</li>
+                <li>PORSCHE</li>
+            </ol>
+        </body>
+        </html>
+
+```
 
 
 ## OUTPUT
+![Screenshot (828)](https://github.com/jeeva650650/Ex02_Web-Design/assets/167397876/e3611836-eab7-43f2-a4f0-823171ef281d)
 
 
 ## RESULT
